@@ -1,0 +1,33 @@
+{
+  "name": "google-translate-tor",
+  "version": "1.0.0",
+  "description": "Query Google Translate API using Tor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheNetJedi/google-translate-tor.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "nodejs",
+    "google",
+    "translate",
+    "api",
+    "tor"
+  ],
+  "author": "Ameer Shaikh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheNetJedi/google-translate-tor/issues"
+  },
+  "homepage": "https://github.com/TheNetJedi/google-translate-tor#readme",
+  "dependencies": {
+    "@vitalets/google-translate-token": "^1.1.0",
+    "querystring": "^0.2.0",
+    "tor-request": "^3.1.0"
+  }
+}

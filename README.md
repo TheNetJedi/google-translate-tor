@@ -1,2 +1,5 @@
-# google-translate-tor
-Query Google Translate API using Tor
+# Google Translate API - Tor
+
+
+
+## PRs are welcome!
