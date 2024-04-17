@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/TheNetJedi/google-translate-tor#readme",
   "dependencies": {
-    "@vitalets/google-translate-token": "^1.1.0",
+    "@vitalets/google-translate-token": "^1.2.0",
     "querystring": "^0.2.0",
     "tor-request": "^3.1.0"
   }
